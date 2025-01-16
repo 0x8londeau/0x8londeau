@@ -55,14 +55,6 @@ Welcome to my GitHub profile! I'm an Information Security Professional with a pa
 
 ---
 
-## 📈 Professional Experience
-
-- **Penetration Testing & Vulnerability Assessment:** Proven track record of executing controlled attacks to uncover hidden vulnerabilities and providing strategic guidance on remediation.
-- **Risk Mitigation:** Expert in designing and implementing robust security measures that protect hybrid environments against sophisticated cyber threats.
-- **Collaboration & Communication:** Adept at working in multidisciplinary teams and communicating complex security insights to stakeholders at all levels.
-
----
-
 ## 🤝 Let’s Connect
 
 - **LinkedIn:** (www.linkedin.com/in/michael-blondeau)
