@@ -64,14 +64,13 @@ Welcome to my GitHub profile! I'm an Information Security Professional with a pa
 ## 📄 Certifications & Education
 
 - **Certifications:**
-  - **Core:** CASP+, PenTest+, CySA+, CCNA
-  - **Cloud:** AWS CCP, Microsoft AZ-900
-  - **Foundational:** Security+, Network+, Linux+, A+, ISC² CC
-  - **In Progress:** OSCP PEN-200
+  - **Offensive Security:** PenTest+, C|EH
+  - **Core Security:** CASP+ (SecurityX), CySA+, Security+
+  - **Networking & Cloud:** CCNA, Network+, AWS CCP, Microsoft AZ-900
+  - **Foundational:** Linux+, A+, ISC2 CC
 
 - **Education:**
   - **M.S. Cybersecurity and Information Assurance** – Western Governors University  
-    *Expected January 2025*
   - **B.B.A. Management** – American Military University, 2018
   - **A.A.S. Unmanned Aircraft Flight Systems** – Cochise College, 2017
 
